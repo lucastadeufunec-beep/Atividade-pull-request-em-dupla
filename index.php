@@ -1,6 +1,6 @@
 <?php
     $owner = "Guilherme";
-    $contributor = null
+    $contributor = "Lucas 2B";
 ?>
 
 <h1>Pull Request em Dupla</h1>
